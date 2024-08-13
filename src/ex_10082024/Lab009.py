@@ -1,6 +1,3 @@
-
-
-
 # print("Maximum number =", max(-1, -23, -45, 100, 60, -1, 70, 40,"My Bad"))
 
 name = "Yash"
