@@ -1,9 +1,9 @@
-age=25
+age = 25
 
-print("Age = ",age)
+print("Age = ", age)
 
 # Determines type of a variable at runtime [Dynamically Typed]
-print("Age type",type(age))
+print("Age type", type(age))
 
 age = "twenty - five"
 
