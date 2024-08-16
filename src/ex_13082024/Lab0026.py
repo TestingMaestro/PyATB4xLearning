@@ -6,7 +6,7 @@ print(name.upper())
 print(name.lower())
 print(len(name))
 
-age = "90"
+age = "90"+"YASHH"
 print(type(age))
 
 name = name+str(1) # Concatenation
