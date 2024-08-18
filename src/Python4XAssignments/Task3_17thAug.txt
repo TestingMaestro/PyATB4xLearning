@@ -1,0 +1,18 @@
+### Task #3
+
+- Explain the difference between the = operator and the == operator in Python.
+
+-->         =                                                 |            ==
+    1. Assignment Operator                                    |     1. Relational Operator/Comparison operator
+    2. Assigns the value from right to left                   |     2. Compares the 2 operands
+    3. Result set of assignment op can be any data type       |     3. Result will be always True/False
+    numeric/string etc                                        |
+    4. ex: name = "Yash"                                      |     4. Ex: print("2==2") o/p True
+
+
+- What does the ** operator do in Python, and how is it used?
+---> 1. ** is the exponential operator falls under Arithmetic operators category
+     2. Basically it determines the power of a given number
+     Usage : print(2**3) --> op = 8  [stores everything in binary]
+
+- What does the ^ operator do in Python, and in what context is it commonly used?

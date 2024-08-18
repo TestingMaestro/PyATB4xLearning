@@ -22,3 +22,12 @@ print(res)
 how_many_planes_i_have = None
 print(how_many_planes_i_have)
 print(type(how_many_planes_i_have))
+
+age = 90
+age2 = 90
+print(id(age))
+print(id(age2))
+
+age = 10
+print(id(age))
+
