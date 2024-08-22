@@ -16,3 +16,11 @@
      Usage : print(2**3) --> op = 8  [stores everything in binary]
 
 - What does the ^ operator do in Python, and in what context is it commonly used?
+1. ^ operator which does Exclusive OR  operations in python. If both bits are different result is 1 else 0
+2. Usage
+--->Used on integers using binary representation a = 10 b = 4 ---> print(a^b)
+10  --> 1010    --- in binary
+4   --> 0100    --- in binary
+XOR --> 1110    ---> result--->14
+
+used in cryptography
