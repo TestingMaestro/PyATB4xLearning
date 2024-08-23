@@ -7,11 +7,12 @@
 # for multiples of 5, print "Buzz."
 # For numbers that are multiples of both 3 and 5, print "FizzBuzz."
 
-n = int(input("Enter the number 1\n"))
-for n in range(1, 100):
-    if n % 3 == 0 and n % 5 == 0:
+i = int(input("Enter the number\n"))
+for i in range(10):
+    if i % 3 == 0 and i % 5 == 0:
         print("FizzBuzz")
-    elif n % 3 == 0:
+    elif i % 3 == 0:
         print("Fizz")
-    elif n % 5 == 0:
+    elif i % 5 == 0:
         print("Buzz")
+
