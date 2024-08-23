@@ -12,13 +12,12 @@ for i in range(num1):
     a = a + b
     b = a - b
 
-#Logic 2
+# Logic 2
 num2 = int(input("Enter the number\n"))
 m = 0
-n = 1
+# n = 1
 for j in range(num2):
     print(m)
     temp = m + n
     m = n
     n = temp
-
