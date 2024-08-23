@@ -13,6 +13,7 @@ for i in range(num1):
     b = a - b
 
 # Logic 2
+"""
 num2 = int(input("Enter the number\n"))
 m = 0
 # n = 1
@@ -21,3 +22,5 @@ for j in range(num2):
     temp = m + n
     m = n
     n = temp
+"""
+

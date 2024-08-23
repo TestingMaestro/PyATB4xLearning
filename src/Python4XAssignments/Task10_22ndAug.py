@@ -13,6 +13,7 @@ for i in range(num, 0, -1):
 print("=", fact1)
 
 # Logic 2
+"""
 fact = 1
 for i in range(num, 0, -1):
     for j in range(i, 0, -1):
@@ -20,3 +21,5 @@ for i in range(num, 0, -1):
         fact = fact * j
     print("=", fact)
     fact = j
+"""
+
