@@ -16,9 +16,13 @@ import sys
 # Use an if-else statement to classify the triangle.
 
 
-sdLen1 = int(input("Enter the length 1\n"))
-sdLen2 = int(input("Enter the length 2\n"))
-sdLen3 = int(input("Enter the length 3\n"))
+# sdLen1 = int(input("Enter the length 1\n"))
+# sdLen2 = int(input("Enter the length 2\n"))
+# sdLen3 = int(input("Enter the length 3\n"))
+
+sdLen1 = float(input("Enter the length 1\n"))
+sdLen2 = float(input("Enter the length 2\n"))
+sdLen3 = float(input("Enter the length 3\n"))
 
 if sdLen1 == sdLen2 and sdLen1 == sdLen3:
     print("Equilateral Triangle")
