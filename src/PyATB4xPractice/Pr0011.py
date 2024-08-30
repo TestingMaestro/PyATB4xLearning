@@ -19,7 +19,7 @@ def factorial_num(n, fact=1):
     print(f"{n}! =", fact)
 
 
-def fibonacci_series(n, a=0, b=1, temp=0):
+def fibonacci_series(n, a=0, b=1):
     print("Fibonacci series are:")
     for i in range(num):
         print(f"{a}", end=" ")
