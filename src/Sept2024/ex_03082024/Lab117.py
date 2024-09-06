@@ -6,7 +6,7 @@ class Person:
 
     def print_value(self):
         my_string = "&"
-        print(self.name1, "&", self.name2)
+        print(self.name1, " & ", self.name2)
 
 
 yash = Person("Yash", "Sou")

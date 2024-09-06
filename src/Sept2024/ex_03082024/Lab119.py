@@ -9,7 +9,7 @@ class VWOLoginPage:
         if self.email1 == "yash@gmail.com" and self.password1 == "pass123":
             print("Login is allowed")
         else:
-            print("Not allowed to login")
+            print(" Not allowed to login")
 
 
 email = input("Enter the username\n")

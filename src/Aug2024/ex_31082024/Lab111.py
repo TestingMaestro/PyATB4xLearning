@@ -24,7 +24,7 @@ print(dog1.color)
 print(dog1.breed)
 
 dog2 = Dog()
-dog2.name = "Johnny"
+dog2.name = "Johnny "
 dog2.color = "Word"
 dog2.breed = "Golden ret"
 

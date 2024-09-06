@@ -7,7 +7,7 @@ class Person:
     def print_info(self):
         global a
         a = "Note"
-        print(a)
+        print(a )
         print(self.b)  # Cant use directly b because it belongs to clss [self.b]
 
 

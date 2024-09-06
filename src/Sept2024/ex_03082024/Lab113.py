@@ -11,7 +11,7 @@ class Person:
     def person_details(self):
         print(f"Name: {self.name}")
         print(f"Age: {self.age}")
-        print(f"Phone: {self.phone}")
+        print(f"Phone : {self.phone}")
         print(f"Occupation: {self.occupation}")
 
 

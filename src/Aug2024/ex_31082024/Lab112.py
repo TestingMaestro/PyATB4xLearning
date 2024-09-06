@@ -11,7 +11,7 @@ class Dog:
         self.age = age
 
     def sleep(self):
-        print(f"{self.name}'s age is {self.age} ")
+        print(f"{self.name}'s  age is {self.age} ")
 
 
 dog1 = Dog("Choww", 10)  # Constructor is automatically called when object is created

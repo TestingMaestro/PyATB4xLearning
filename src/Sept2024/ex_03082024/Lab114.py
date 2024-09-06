@@ -16,7 +16,7 @@ class Calculator:
         return self.a * self.b
 
 
-a = int(input("Enter the value of a\n"))
+a = int(input("Enter the value of a \n"))
 b = int(input("Enter the value of b\n"))
 cal_1 = Calculator(a, b)
 res1 = cal_1.sum()
