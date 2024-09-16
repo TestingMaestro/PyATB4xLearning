@@ -1,5 +1,4 @@
 # non-static to non-static ---> Directly accessible [create obj]
-
 class READEXCELFILE:
 
     def read_my_excel_file(self):

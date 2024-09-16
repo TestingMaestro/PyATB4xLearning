@@ -1,0 +1,10 @@
+# 4. General Catch [Catching all Exceptions]
+
+try:
+    a = int(input("Enter a number a"))
+    b = int(input("Enter a number b"))
+    c = (a / b)
+except Exception as e:
+    print("Entered value cannot be zero or Strings other types!! Please check the Inputs")
+else:
+    print(f"Result: {c:.2f}")

@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 
 
-class PyATB4x(ABC):   # incomplete class
+class PyATB4x(ABC):  # incomplete class
 
     def __init__(self, name):
         self.name = name

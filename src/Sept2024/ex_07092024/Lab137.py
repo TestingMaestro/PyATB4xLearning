@@ -20,6 +20,7 @@ class Circle(Shape):
     def __init__(self, a, b):
         self.a = a
         self.b = b
+
     def area(self):
         print(math.pi * math.pow(self.a, self.b))
 

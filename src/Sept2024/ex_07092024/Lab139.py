@@ -11,7 +11,7 @@ class Check1(CheckSuper):
 
     def my_method(self):
         super().my_method()
-        super().my_other(10,20)
+        super().my_other(10, 20)
         print("Check1 method")
 
 
