@@ -1,0 +1,4 @@
+Directories and Files
+Yashodhar loves Souparnika
+File:File1.txt
+Directory:Folder1
