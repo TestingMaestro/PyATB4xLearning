@@ -3,7 +3,7 @@
 --> List like sequence
 ---> Double ended queue --> we insert elements from left and right
 """
-
+#
 from collections import deque
 
 d = deque([1, 2, 3])

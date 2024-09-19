@@ -1,5 +1,5 @@
 import Lab172, ExcelReader
-
+#
 multiply = Lab172.mul(1, 2)
 addition = Lab172.add(3, 4)
 print(f"Multiplication:{multiply}")
